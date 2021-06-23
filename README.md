@@ -16,15 +16,3 @@
 
 
 <hr>
-
-### Bu ?
-✨ Panel <br>
-✨ Label <br>
-✨ PictureBox<br>
-✨ Grouptext<br>
-✨ ComboBox<br>
-✨ DateTimePicker<br>
-✨ MaskedTextBox<br>
-✨ TextBox<br>
-✨ Button<br>
-✨ ListBox<br>
