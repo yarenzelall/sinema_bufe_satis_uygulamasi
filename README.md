@@ -1,16 +1,16 @@
 # Sinema Büfe Satış Uygulaması
 
 ### Senaryo Nedir?
-✈️ Müşteriden ürün miktarı girilmesi isteniyor. Girilen değer bir değişkende tutuluyor. <br>
-✈️ Değişkene atanan miktar bilgisile fiyatlar çarpılıyor ve toplam elde ediliyor <br>
+🎞️ Müşteriden ürün miktarı girilmesi isteniyor. Girilen değer bir değişkende tutuluyor. <br>
+🎞️ Değişkene atanan miktar bilgisi ile fiyatlar çarpılıyor ve toplam elde ediliyor <br>
 
 ![Uygulama Ekran Görüntüsü](https://github.com/yarenzelall/sinema_bufe_satis_uygulamasi/blob/master/00.jpeg)
 
-✈️ Aynı zamanda sipariş toplamı kasada biriken paraya ekleniyor.<br>
+🎞️ Aynı zamanda sipariş toplamı kasada biriken paraya ekleniyor.<br>
 
 ![Uygulama Ekran Görüntüsü](https://github.com/yarenzelall/sinema_bufe_satis_uygulamasi/blob/master/01.jpeg) 
 
-✈️ "Sıfırla" butonu ile girilen değerler temizleniyor ve imleç en başa geliyor.
+🎞️ "Sıfırla" butonu ile girilen değerler temizleniyor ve imleç en başa geliyor.
 
 ![Uygulama Ekran Görüntüsü](https://github.com/yarenzelall/sinema_bufe_satis_uygulamasi/blob/master/02.jpeg)
 
